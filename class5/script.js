@@ -24,4 +24,7 @@ symbol => unique and immutable value
 // typeof operator => it is used to check the data type of a variable or value
 
 console.log(typeof null)
-console.log(typeof undefined)
+console.log(typeof (undefined))
+
+// typeof ("hello")
+// typeof null 

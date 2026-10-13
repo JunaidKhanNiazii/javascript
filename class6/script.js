@@ -39,21 +39,25 @@ console.log(score4); // it will print 1 because true is converted to 1
 
 /// Now here we learn the Boolean()
 
-let isLoggedIn = 1
-console.log(typeof isLoggedIn);
-isLoggedIn = Boolean(isLoggedIn);
-console.log(typeof isLoggedIn);
-console.log(isLoggedIn); // it will print true because 1 is converted to true
+// let isLoggedIn = 1
+// console.log(typeof isLoggedIn);
+// isLoggedIn = Boolean(isLoggedIn);
+// console.log(typeof isLoggedIn);
+// console.log(isLoggedIn); // it will print true because 1 is converted to true
 
 
-let isLoggedIn1 = ""
-console.log(typeof isLoggedIn1);
-isLoggedIn1 = Boolean(isLoggedIn1);
-console.log(typeof isLoggedIn1);
-console.log(isLoggedIn1); // it will print false because an empty string is converted to false
+// let isLoggedIn1 = ""
+// console.log(typeof isLoggedIn1);
+// isLoggedIn1 = Boolean(isLoggedIn1);
+// console.log(typeof isLoggedIn1);
+// console.log(isLoggedIn1); // it will print false because an empty string is converted to false
 
-let isLoggedIn2 = "hello"
-console.log(typeof isLoggedIn2);
-isLoggedIn2 = Boolean(isLoggedIn2);
-console.log(typeof isLoggedIn2);
-console.log(isLoggedIn2); // it will print true because a non-empty string is converted to true
+// let isLoggedIn2 = "hello"
+// console.log(typeof isLoggedIn2);
+// isLoggedIn2 = Boolean(isLoggedIn2);
+// console.log(typeof isLoggedIn2);
+// console.log(isLoggedIn2); // it will print true because a non-empty string is converted to true
+
+
+
+// String ()
